@@ -103,20 +103,3 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
-# A simple 404 page
-error_404:
-  enable: true
-  subtitle: "页面没有找到"
-  background:
-
-  #目录
-  Home: / || fas fa-home
-Archives: /archives/ || fas fa-archive
-Tags: /tags/ || fas fa-tags
-Categories: /categories/ || fas fa-folder-open
-List||fas fa-list:
-  Music: /music/ || fas fa-music
-  Movie: /movies/ || fas fa-video
-Link: /link/ || fas fa-link
-About: /about/ || fas fa-heart
