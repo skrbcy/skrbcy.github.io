@@ -959,7 +959,8 @@ about:
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com", tip: "GitHub" }
     - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
-    - { class: "iconfont icon-wechat-fill", qrcode: "/img/favicon.png" }
+    - { class: "iconfont icon-douban-fill", link: "https://www.bilibili.com/", tip: "哔哩哔哩" }
+    - { class: "iconfont icon-bilibili-fill", qrcode: "/img/favicon.png" }
 
 
 #---------------------------
