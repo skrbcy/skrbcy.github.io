@@ -790,16 +790,16 @@ valine:
   path: window.location.pathname
   placeholder:
   avatar: 'retro'
-  meta: ['nick', 'mail', 'link']
+  meta: ['nick', 'mail']
   requiredFields: []
   pageSize: 10
   lang: 'zh-CN'
   highlight: false
   recordIP: false
-  serverURLs: ''
+  serverURLs: 'https://O1af1jqN.api.lncldglobal.com'
   emojiCDN:
   emojiMaps:
-  enableQQ: false
+  enableQQ: true
 
 # Waline
 # 从 Valine 衍生而来，额外增加了服务端和多种功能
